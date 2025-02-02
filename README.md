@@ -8,7 +8,7 @@
 
 ---
 
-Мое CV - [Нажмите сюда]([https://doka.guide](https://github.com/ArtemLosik97/ArtemLosik97/blob/main/%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%9B%D0%BE%D1%81%D0%B8%D0%BA%20-%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf))
+Мое CV - [Нажмите сюда](https://github.com/ArtemLosik97/ArtemLosik97/blob/main/%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%9B%D0%BE%D1%81%D0%B8%D0%BA%20-%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 
 ---
 
