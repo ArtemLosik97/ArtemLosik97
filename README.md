@@ -23,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=flat&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)
 
+---
+
 ## Мои контакты
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=social&logo=gmail)](https://artem.losik.97@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Telegram-white?style=social&logo=telegram)](https://t.me/artem_losik)
