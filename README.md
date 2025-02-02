@@ -24,9 +24,9 @@
 ![Static Badge](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)
 
 ### *Мои контакты*
-[![Static Badge](https://img.shields.io/badge/Gmail-white?style=social&logo=gmail)](artem.losik.97@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gmail-white?style=social&logo=gmail)](https://artem.losik.97@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Telegram-white?style=social&logo=telegram)](https://t.me/artem_losik)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=social)](www.linkedin.com/in/artemlosik97)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-white?style=social)](https://www.linkedin.com/in/artemlosik97)
 
 
 
