@@ -16,10 +16,12 @@
 
 ![Static Badge](https://img.shields.io/badge/Postman-white?style=flat&logo=postman)
 ![Static Badge](https://img.shields.io/badge/Swagger-white?style=flat&logo=swagger)
-![Static Badge](https://img.shields.io/badge/ChromeDevTools-white?style=flat)
+![Static Badge](https://img.shields.io/badge/DevTools-white?style=flat)
 ![Static Badge](https://img.shields.io/badge/ElasticSearch-white?style=flat&logo=elasticsearch&logoColor=brown)
 ![Static Badge](https://img.shields.io/badge/MySQL-white?style=flat&logo=mysql)
+![Static Badge](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/TestRail-white?style=flat&logo=testrail)
+![Static Badge](https://img.shields.io/badge/Confluence-white?style=flat&logo=confluence&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Figma-white?style=flat&logo=figma)
 ![Static Badge](https://img.shields.io/badge/Jira-white?style=flat&logo=jira&logoColor=blue)
 
